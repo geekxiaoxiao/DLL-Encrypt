@@ -117,5 +117,5 @@ Also be wary of using cryptopp or other common libraries, they are super easy to
 You can download the entire project below, and that ends my C++ how to stream a DLL tutorial.
 
 
-**Sorry for the 4 repos I ment to post on my main and not unreal**
+**unrealuser#0001**
 < THIS IS A TOTAL REPOST OF https://guidedhacking.com/threads/how-to-stream-a-dll-without-touching-disk-encrypted.16940/ >
